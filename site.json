@@ -1,0 +1,26 @@
+{
+  "name": "Tomás Igareta",
+  "alias": "rootoy",
+  "url": "",
+  "description": "Portfolio de ciberseguridad de Tomás Igareta: proyectos, certificaciones y blog.",
+  "tagline": "Estudiante de Ingeniería en Informática con foco en ciberseguridad. Desarrollo herramientas, practico en laboratorios y documento lo que aprendo.",
+  "blogDescription": "Notas y apuntes sobre ciberseguridad y lo que voy aprendiendo.",
+  "terminal": [["whoami", "rootoy"], ["cat estudios.txt", "Ingeniería en Informática"], ["cat enfoque.txt", "Ciberseguridad"], ["cat certificacion.txt", "Security+ (en preparación)"]],
+  "about": [
+    "Desde chico fui muy curioso: siempre quise entender cómo funcionan las cosas por dentro. Esa curiosidad me llevó a la informática y, con el tiempo, a la ciberseguridad.",
+    "Hoy estudio Ingeniería en Informática y me preparo para la certificación Security+. Me interesa conocer cómo se construyen los sistemas para poder detectar dónde fallan y cómo protegerlos."
+  ],
+  "stats": [
+    {"title": "Ing. en Informática", "label": "Carrera"},
+    {"title": "Ciberseguridad", "label": "Enfoque"},
+    {"title": "Security+", "label": "Preparando"}
+  ],
+  "projects": [
+    {"title": "HTTP Header Scanner", "description": "Analiza las cabeceras HTTP de un sitio y detecta configuraciones de seguridad faltantes o débiles.", "tags": ["Python", "Web"], "url": ""},
+    {"title": "Hash Identifier", "description": "Identifica el tipo de un hash a partir de su formato y longitud.", "tags": ["Python", "Crypto"], "url": "https://github.com/rootoyy/hash-identifier"}
+  ],
+  "certifications": [
+    {"title": "CompTIA Security+", "description": "En preparación.", "tag": "En curso"}
+  ],
+  "links": {"github": "https://github.com/rootoyy", "linkedin": "", "email": "rootoyyy@gmail.com"}
+}

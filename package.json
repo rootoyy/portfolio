@@ -1,0 +1,1 @@
+{"name":"portfolio","private":true,"scripts":{"build":"node build.js","dev":"INCLUDE_DRAFTS=1 node build.js && python3 -m http.server 8000 -d dist"}}
